@@ -1,0 +1,10 @@
+@import "~bootstrap/scss/bootstrap";
+/// Layouts
+@import "../layouts/BasicLayout/BasicLayout";
+///Fix Components
+@import "../components/HeaderCustom/HeaderCustom";
+@import "../components/HeaderCustom/TopBar/TopBar";
+@import "../components/HeaderCustom/Buscador/Buscador";
+@import "../components/HeaderCustom/MenuCustom/MenuCustom";
+@import "../components/FooterCustom/FooterCustom";
+
